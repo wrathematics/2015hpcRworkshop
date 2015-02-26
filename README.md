@@ -31,8 +31,8 @@ performance.
 ## Location and Registration
 
 The tutorial will be held February 27, 2015, 1–5 p.m. EST.  It will be 
-presented remotely as well as locally for University of Tennessee folks.  
-To view the tutorial remotely, register at one of the links below.  If you wish
+presented remotely as well as locally for University of Tennessee folks. To view 
+the tutorial remotely, register at one of the links below.  If you wish
 to attend physically, we will be generously hosted by NIMBioS at the University
 of Tennessee, Knoxville.
 
