@@ -46,10 +46,9 @@ NIMBioS signup: http://www.nimbios.org/tutorials/TT_RforHPC
 
 ## Organizers
 
-Drew Schmidt from the National Institute for Computational Sciences (NICS) and
-Extreme Science and Engineering Discovery Environment (XSEDE)
+Drew Schmidt (NICS, XSEDE) 
 
 Vince Betro (NICS, XSEDE)
 
-Eric Carr from the National Institute for Mathematical and Biological Synthesis (NIMBioS)
+Eric Carr (NIMBioS)
 
