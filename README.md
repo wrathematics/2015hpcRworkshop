@@ -1,5 +1,8 @@
 # High Performance Computing with R
 
+<center>
+![logos](logos.png)
+</center>
 
 ## Description
 
