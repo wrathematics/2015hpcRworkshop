@@ -46,5 +46,5 @@ NIMBioS signup: http://www.nimbios.org/tutorials/TT_RforHPC
 Drew Schmidt from the National Institute for Computational Sciences (NICS) and
 Extreme Science and Engineering Discovery Environment (XSEDE)
 
-Eric Carr, NIMBioS
+Eric Carr from the National Institute for Mathematical and Biological Synthesis (NIMBioS)
 
