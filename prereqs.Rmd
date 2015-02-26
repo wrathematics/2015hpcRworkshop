@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-![logos](logos/logos.png)
+![logos](logos.png)
 
 
 <br><br>
