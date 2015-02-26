@@ -11,7 +11,7 @@ output: html_document
 
 ## Attendee Background
 
-The attendee should ideally have some familiarity with working with R.  Service providers looking for information to better support R users need not have direct experience with R, provided they have a strong programming background, and some familiarity with a high-level language such as Python or Matlab.
+The attendee should ideally have some familiarity with working with R.  Service providers looking for information to better support R users need not have direct experience with R, provided they have a strong programming background and some familiarity with a high-level language such as Python or Matlab.
 
 
 
@@ -19,7 +19,7 @@ The attendee should ideally have some familiarity with working with R.  Service 
 
 ## Tutorial Outline
 
-The tutorial will be 4 hours total in length (including breaks), sheculded for 1:00-5:00pm Eastern Standard Time on February 27, 2015.  The tutorial will be held physically at the University of Tennessee in Knoxville, in room 206 of Claxton Complex.  The event will also be streamed online.
+The tutorial will be 4 hours total in length (including breaks), schedulded for 1:00-5:00pm Eastern Standard Time on February 27, 2015.  The tutorial will be held physically at the National Institute for Mathematical and Biological Synthesis (NIMBioS) at the University of Tennessee in Knoxville, in room 206 of Claxton Complex.  The event will also be streamed online.
 
 The tutorial is divided into 4 separate 1 hour modules, consisting of 45 minutes of instruction and 15 minutes of hands-on exercises.  The general structure of the tutorial will be:
 
