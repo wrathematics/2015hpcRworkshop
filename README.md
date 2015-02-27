@@ -17,9 +17,6 @@ debugging, profiling and performance analysis, optimization, foreign language
 API's, and parallel programming with R. There will also be a comprehensive
 hands-on component to reinforce topics introduced during the lecture portion.
 
-Slides and exercises will be posted to this repository some time
-before the tutorial begins.
-
 
 
 ## Who Should Attend
