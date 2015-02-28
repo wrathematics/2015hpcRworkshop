@@ -4,6 +4,20 @@
 ![logos](logos.png)
 </center>
 
+## Slides and Exercises
+
+Slides: 
+
+* [[pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/hpcR.pdf?raw=true)]
+
+Exercises:
+
+* Section 1:  Basics  [[html](http://htmlpreview.github.com/?https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/1_basics.html) | [pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/1_basics.pdf?raw=true)] 
+* Section 2:  Performance  [[html](http://htmlpreview.github.com/?https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/2_performance.html) | [pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/2_performance.pdf?raw=true)] 
+* Section 3:  Compiled  [[html](http://htmlpreview.github.com/?https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/3_compiled.html) | [pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/3_compiled.pdf?raw=true)]
+* Section 4:  Parallelism  [[html](http://htmlpreview.github.com/?https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/4_parallelism.html) | [pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/exercises/4_parallelism.pdf?raw=true)]
+
+
 ## Description
 
 By some measures, R is the most popular software package for the analysis of
