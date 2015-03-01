@@ -8,7 +8,7 @@
 
 Slides: 
 
-* [[pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/hpcR.pdf?raw=true)]
+* High Performance Computing with R [[pdf](https://github.com/wrathematics/2015hpcRworkshop/blob/master/hpcR.pdf?raw=true)]
 
 Exercises:
 
