@@ -4,7 +4,11 @@
 ![logos](logos.png)
 </center>
 
-## Slides and Exercises
+## Recordings, Slides, and Exercises
+
+Recordings:
+
+* [Youtube](https://www.youtube.com/playlist?list=PLRyq_4VPZ9g_g4b3An6VTkRX_c0tAHoAj)
 
 Slides: 
 
